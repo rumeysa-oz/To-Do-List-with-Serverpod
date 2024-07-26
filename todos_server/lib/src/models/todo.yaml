@@ -1,0 +1,9 @@
+class: Todo
+
+table: todo
+
+fields:
+  title: String
+  content: String
+  createdAt: DateTime
+  updatedAt: DateTime

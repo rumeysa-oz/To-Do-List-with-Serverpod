@@ -1,0 +1,7 @@
+example:
+  - hello:
+todo:
+  - create:
+  - readAll:
+  - delete:
+  - update:
